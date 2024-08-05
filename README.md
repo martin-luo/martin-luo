@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Martin Luo
 
-I'm a passionate Software Engineer specialised in front-end development.
+I'm a passionate Software Engineer specialised in front-end development, here is my [online resume](https://aml-personal-website-app.vercel.app/about-me)
 
 #### What I worked on
 
