@@ -54,6 +54,18 @@ I'm a passionate Software Engineer specialised in front-end development, here is
 
 ### 📈 Activity Graph:
 
-[![Martin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martin-luo&theme=react)](https://github.com/martin-luo/)
+<a href="https://github.com/martin-luo">
+    <picture>
+        <source
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=martin-luo&theme=react"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=martin-luo&theme=github"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=martin-luo&theme=github" />
+        </picture>
+</a>
 
-[![Martin's github commit gif graph](/dist/github-contribution-grid-snake.gif)](https://github.com/martin-luo/)
+[![Martin's github commit gif graph](/dist/github-snake.gif)](https://github.com/martin-luo/)
