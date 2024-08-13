@@ -2,6 +2,34 @@
 
 I'm a passionate Software Engineer specialised in front-end development, here is my [online resume](https://aml-personal-website-app.vercel.app/about-me)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture style='vertical-align: text-top;'>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=react&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars" />
+        </picture>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture style='vertical-align: text-top;'>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=react&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby" />
+        </picture>
+</a>
+
 #### What I worked on
 
 🔭 My primary tech stack includes:
@@ -23,16 +51,6 @@ I'm a passionate Software Engineer specialised in front-end development, here is
 👯 I’m looking to collaborate on frontend projects
 
 💬 Ask me about `React`, `TypeScript`, `Web development`
-
-#### Some stats:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
 
 ### 📈 Activity Graph:
 
