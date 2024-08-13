@@ -72,13 +72,13 @@ I'm a passionate Software Engineer specialised in front-end development, here is
 <a href="https://github.com/martin-luo">
     <picture>
         <source
-            srcset="https://raw.githubusercontent.com/martin-luo/martin-luo/out/dist/github-contribution-grid-snake-dark.svg?palette=github-dark"
+            srcset="https://raw.githubusercontent.com/martin-luo/martin-luo/output/github-contribution-grid-snake-dark.svg"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://raw.githubusercontent.com/martin-luo/martin-luo/out/dist/github-contribution-grid-snake.svg"
+            srcset="https://raw.githubusercontent.com/martin-luo/martin-luo/output/github-contribution-grid-snake.svg"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://raw.githubusercontent.com/martin-luo/martin-luo/out/dist/github-contribution-grid-snake.svg" />
+        <img src="https://raw.githubusercontent.com/martin-luo/martin-luo/output/github-contribution-grid-snake.svg" />
     </picture>
 </a>
