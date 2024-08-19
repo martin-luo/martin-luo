@@ -6,27 +6,27 @@ I'm a passionate Software Engineer specialised in front-end development, here is
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture style='display:inline-block'>
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=react&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars"
+                srcset="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&hide_border=true&theme=react&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars"
+                srcset="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars" />
+            <img src="https://github-readme-stats.vercel.app/api?username=martin-luo&count_private=true&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars" alt="Martin Luo's GitHub Stats"  />
         </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture style='display:inline-block'>
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=react&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&hide_border=true&theme=react&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martin-luo&count_private=true&show_icons=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars,python,java,ruby" alt="Martin Luo's Most Used Languages"  />
         </picture>
     </a>
 </div>
